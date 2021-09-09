@@ -1,6 +1,6 @@
 title: jodapear
 logo: /assets/img/puppy_logo.png
 description: jodapear landing page.
-show_downloads: false
+show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
